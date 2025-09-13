@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>YouTube Search</title></head>
+<body>
+<form action="https://www.youtube.com/results" method="get" target="_blank">
+<input type="text" name="search_query" placeholder="Search YouTube..." required>
+<button type="submit">Search</button>
+<p>Tip: type keywords (e.g., "lofi beats") then Search.</p>
+</form>
+</body></html>
